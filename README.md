@@ -2,7 +2,6 @@
 
 A simple and functional **URL Shortener** built with **Node.js**, **Express**, and **MongoDB (Mongoose)**. 
 It allows users to shorten URLs, redirect to the original link, and track visit analytics over time.
----
 
 ## 🚀 Features
 
